@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 1000px;
+}
+
+div {
+    height: 200px;
+    /* width: 200px; */
+    border: 0 solid black;
+}
+
+.black-text {
+    color: black;
+}
+
+.white-text {
+    color: white;
+}
+
+.bg-black {
+    background-color: black;
+    height: 100px;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.clear-right {
+    clear: right;
+} 
+
+.clear-left {
+    clear: left;
+}
+
+#div-7 {
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+
+.parent {
+    height: auto;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.w-half {
+    width: 50%;
+}
+
+.w-quarter {
+    width: 25%;
+}
+
+.h-400 {
+ height: 400px;
+}
+
+.h-full {
+    height: 100%;
+}
